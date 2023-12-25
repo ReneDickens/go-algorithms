@@ -1,6 +1,6 @@
 package main
 
-/*
+/#
  * Bubble sort - http://en.wikipedia.org/wiki/Bubble_sort
  */
 
@@ -13,3 +13,4 @@ func BubbleSort(arr []int) {
 		}
 	}
 }
+ 
